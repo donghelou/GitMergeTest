@@ -26,6 +26,7 @@
 		2B48810C2137F6750093FC26 /* LoadCargoesDetailCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B48810A2137F6750093FC26 /* LoadCargoesDetailCell.m */; };
 		2B55390421391B130029F311 /* ViewControllerB.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B55390321391B130029F311 /* ViewControllerB.m */; };
 		2B55390721391C390029F311 /* ViewControllerC.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B55390621391C390029F311 /* ViewControllerC.m */; };
+		2B55391021391FAE0029F311 /* ViewController6.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B55390F21391FAE0029F311 /* ViewController6.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -70,6 +71,8 @@
 		2B55390321391B130029F311 /* ViewControllerB.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewControllerB.m; sourceTree = "<group>"; };
 		2B55390521391C390029F311 /* ViewControllerC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewControllerC.h; sourceTree = "<group>"; };
 		2B55390621391C390029F311 /* ViewControllerC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewControllerC.m; sourceTree = "<group>"; };
+		2B55390E21391FAE0029F311 /* ViewController6.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController6.h; sourceTree = "<group>"; };
+		2B55390F21391FAE0029F311 /* ViewController6.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController6.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +120,8 @@
 				2B55390321391B130029F311 /* ViewControllerB.m */,
 				2B55390521391C390029F311 /* ViewControllerC.h */,
 				2B55390621391C390029F311 /* ViewControllerC.m */,
+				2B55390E21391FAE0029F311 /* ViewController6.h */,
+				2B55390F21391FAE0029F311 /* ViewController6.m */,
 			);
 			path = FoundationTest2;
 			sourceTree = "<group>";
@@ -246,6 +251,7 @@
 				2B4880B82137E1FD0093FC26 /* AppDelegate.m in Sources */,
 				2B4880F62137E5500093FC26 /* MASCompositeConstraint.m in Sources */,
 				2B4880FA2137E5500093FC26 /* View+MASAdditions.m in Sources */,
+				2B55391021391FAE0029F311 /* ViewController6.m in Sources */,
 				2B4880F42137E5500093FC26 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
 				2B4880FD2137E5500093FC26 /* MASViewAttribute.m in Sources */,
 				2B55390721391C390029F311 /* ViewControllerC.m in Sources */,
