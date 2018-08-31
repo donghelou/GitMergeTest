@@ -26,6 +26,7 @@
 		2B48810C2137F6750093FC26 /* LoadCargoesDetailCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B48810A2137F6750093FC26 /* LoadCargoesDetailCell.m */; };
 		2B55390421391B130029F311 /* ViewControllerB.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B55390321391B130029F311 /* ViewControllerB.m */; };
 		2B55390A21391C790029F311 /* ViewControllerD.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B55390921391C790029F311 /* ViewControllerD.m */; };
+		2B55390D21391F700029F311 /* ViewController5.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B55390C21391F700029F311 /* ViewController5.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -70,6 +71,8 @@
 		2B55390321391B130029F311 /* ViewControllerB.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewControllerB.m; sourceTree = "<group>"; };
 		2B55390821391C790029F311 /* ViewControllerD.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewControllerD.h; sourceTree = "<group>"; };
 		2B55390921391C790029F311 /* ViewControllerD.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewControllerD.m; sourceTree = "<group>"; };
+		2B55390B21391F700029F311 /* ViewController5.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController5.h; sourceTree = "<group>"; };
+		2B55390C21391F700029F311 /* ViewController5.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController5.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +120,8 @@
 				2B55390321391B130029F311 /* ViewControllerB.m */,
 				2B55390821391C790029F311 /* ViewControllerD.h */,
 				2B55390921391C790029F311 /* ViewControllerD.m */,
+				2B55390B21391F700029F311 /* ViewController5.h */,
+				2B55390C21391F700029F311 /* ViewController5.m */,
 			);
 			path = FoundationTest2;
 			sourceTree = "<group>";
@@ -234,6 +239,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2B55390D21391F700029F311 /* ViewController5.m in Sources */,
 				2B4880F72137E5500093FC26 /* MASConstraintMaker.m in Sources */,
 				2B4880BB2137E1FD0093FC26 /* ViewController.m in Sources */,
 				2B4880F52137E5500093FC26 /* ViewController+MASAdditions.m in Sources */,
