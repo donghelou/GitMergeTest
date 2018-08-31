@@ -34,10 +34,13 @@
     [self.view addSubview:button2];
     UIButton *button3 = [[UIButton alloc] init];
     [self.view addSubview:button3];
+<<<<<<< HEAD
     UIButton *button4 = [[UIButton alloc] init];
     [self.view addSubview:button4];
+=======
     UIButton *button5 = [[UIButton alloc] init];
     [self.view addSubview:button5];
+>>>>>>> 工作分支2
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
