@@ -37,6 +37,7 @@
     [self.view addSubview:button3];
     UIButton *button5 = [[UIButton alloc] init];
     [self.view addSubview:button5];
+    ViewController6 *view6 = [[ViewController6 alloc] init];
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
