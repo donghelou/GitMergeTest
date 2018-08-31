@@ -10,6 +10,7 @@
 #import "LoadCargoesDetailCell.h"
 #import "Masonry.h"
 #import "ViewController5.h"
+#import "ViewController6.h"
 
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource,UITextFieldDelegate>
 @property(nonatomic,strong)UITableView *dataTableView;
@@ -39,6 +40,7 @@
     [self.view addSubview:button4];
     UIButton *button5 = [[UIButton alloc] init];
     [self.view addSubview:button5];
+    ViewController6 *view6 = [[ViewController6 alloc] init];
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
