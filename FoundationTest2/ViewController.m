@@ -32,6 +32,7 @@
     
     UIButton *button2 = [[UIButton alloc] init];
     [self.view addSubview:button2];
+    NSLog(@"1111");
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
