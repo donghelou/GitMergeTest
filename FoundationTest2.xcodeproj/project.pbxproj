@@ -24,7 +24,6 @@
 		2B4880FC2137E5500093FC26 /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B4880F22137E5500093FC26 /* MASViewConstraint.m */; };
 		2B4880FD2137E5500093FC26 /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B4880F32137E5500093FC26 /* MASViewAttribute.m */; };
 		2B48810C2137F6750093FC26 /* LoadCargoesDetailCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B48810A2137F6750093FC26 /* LoadCargoesDetailCell.m */; };
-		2B55390421391B130029F311 /* ViewControllerB.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B55390321391B130029F311 /* ViewControllerB.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -65,8 +64,6 @@
 		2B4880F32137E5500093FC26 /* MASViewAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewAttribute.m; sourceTree = "<group>"; };
 		2B48810A2137F6750093FC26 /* LoadCargoesDetailCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadCargoesDetailCell.m; sourceTree = "<group>"; };
 		2B48810B2137F6750093FC26 /* LoadCargoesDetailCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadCargoesDetailCell.h; sourceTree = "<group>"; };
-		2B55390221391B130029F311 /* ViewControllerB.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewControllerB.h; sourceTree = "<group>"; };
-		2B55390321391B130029F311 /* ViewControllerB.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewControllerB.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,8 +107,6 @@
 				2B4880C12137E1FF0093FC26 /* LaunchScreen.storyboard */,
 				2B4880C42137E1FF0093FC26 /* Info.plist */,
 				2B4880C52137E1FF0093FC26 /* main.m */,
-				2B55390221391B130029F311 /* ViewControllerB.h */,
-				2B55390321391B130029F311 /* ViewControllerB.m */,
 			);
 			path = FoundationTest2;
 			sourceTree = "<group>";
@@ -243,7 +238,6 @@
 				2B4880FA2137E5500093FC26 /* View+MASAdditions.m in Sources */,
 				2B4880F42137E5500093FC26 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
 				2B4880FD2137E5500093FC26 /* MASViewAttribute.m in Sources */,
-				2B55390421391B130029F311 /* ViewControllerB.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

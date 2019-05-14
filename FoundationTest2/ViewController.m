@@ -29,9 +29,6 @@
     self.dataTableView.backgroundColor = [UIColor whiteColor];
     self.dataTableView.delegate = self;
     self.dataTableView.dataSource = self;
-    
-    UIButton *button2 = [[UIButton alloc] init];
-    [self.view addSubview:button2];
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
