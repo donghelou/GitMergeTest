@@ -29,8 +29,6 @@
     self.dataTableView.backgroundColor = [UIColor whiteColor];
     self.dataTableView.delegate = self;
     self.dataTableView.dataSource = self;
-    
-    //测试测试1
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
