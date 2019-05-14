@@ -30,11 +30,9 @@
     self.dataTableView.delegate = self;
     self.dataTableView.dataSource = self;
     
-    //测试测试哈哈哈
+    //测试测试1
     
     //测试测试2
-    
-    //测试测试3
 }
 
 - (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
