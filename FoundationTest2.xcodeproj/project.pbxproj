@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2B456339228AF9A8001D941E /* test.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B456338228AF9A8001D941E /* test.m */; };
 		2B4880B82137E1FD0093FC26 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B4880B72137E1FD0093FC26 /* AppDelegate.m */; };
 		2B4880BB2137E1FD0093FC26 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B4880BA2137E1FD0093FC26 /* ViewController.m */; };
 		2B4880BE2137E1FD0093FC26 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2B4880BC2137E1FD0093FC26 /* Main.storyboard */; };
@@ -28,8 +27,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2B456337228AF9A8001D941E /* test.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = test.h; sourceTree = "<group>"; };
-		2B456338228AF9A8001D941E /* test.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test.m; sourceTree = "<group>"; };
 		2B4880B32137E1FD0093FC26 /* FoundationTest2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoundationTest2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B4880B62137E1FD0093FC26 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2B4880B72137E1FD0093FC26 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -110,8 +107,6 @@
 				2B4880C12137E1FF0093FC26 /* LaunchScreen.storyboard */,
 				2B4880C42137E1FF0093FC26 /* Info.plist */,
 				2B4880C52137E1FF0093FC26 /* main.m */,
-				2B456337228AF9A8001D941E /* test.h */,
-				2B456338228AF9A8001D941E /* test.m */,
 			);
 			path = FoundationTest2;
 			sourceTree = "<group>";
@@ -234,7 +229,6 @@
 				2B4880F52137E5500093FC26 /* ViewController+MASAdditions.m in Sources */,
 				2B48810C2137F6750093FC26 /* LoadCargoesDetailCell.m in Sources */,
 				2B4880FC2137E5500093FC26 /* MASViewConstraint.m in Sources */,
-				2B456339228AF9A8001D941E /* test.m in Sources */,
 				2B4880C62137E1FF0093FC26 /* main.m in Sources */,
 				2B4880F82137E5500093FC26 /* MASLayoutConstraint.m in Sources */,
 				2B4880FB2137E5500093FC26 /* MASConstraint.m in Sources */,
